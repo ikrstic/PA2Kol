@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imenik", "2KOL\Imenik.csproj", "{21027C16-0881-4DF4-915B-DCBB636172AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firma", "Firma\Firma.csproj", "{3978DF42-33DC-4B8E-9922-FC19A569C898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videoteka", "Videoteka\Videoteka.csproj", "{C733680A-A570-493C-AECA-EBA0AFC28900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21027C16-0881-4DF4-915B-DCBB636172AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21027C16-0881-4DF4-915B-DCBB636172AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21027C16-0881-4DF4-915B-DCBB636172AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21027C16-0881-4DF4-915B-DCBB636172AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3978DF42-33DC-4B8E-9922-FC19A569C898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3978DF42-33DC-4B8E-9922-FC19A569C898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3978DF42-33DC-4B8E-9922-FC19A569C898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3978DF42-33DC-4B8E-9922-FC19A569C898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C733680A-A570-493C-AECA-EBA0AFC28900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C733680A-A570-493C-AECA-EBA0AFC28900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C733680A-A570-493C-AECA-EBA0AFC28900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C733680A-A570-493C-AECA-EBA0AFC28900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
